@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="favorite">Favorite</string>
+    <string name="title_menu_movies">Movie</string>
+    <string name="title_menu_tvshow">TV Show</string>
+    <string name="title_fav_movies">Your Liked Movies</string>
+    <string name="title_fav_tvshow">Your Liked TV Show</string>
+    <string name="title_activity_movie_detail">Movie Detail</string>
+    <string name="title_activity_tvshow_detail">TV Show Detail</string>
+    <string name="splash_text">Movie and TV show</string>
+
+    <string name="image_poster">Image Poster</string>
+    <string name="backdrop_image">Backdrop image</string>
+    <string name="release_date">Release Date</string>
+    <string name="movie_discover">Movie Discover</string>
+    <string name="tv_discover">TV Show Discover</string>
+    <string name="discover_movie">Discover Movie</string>
+    <string name="discover_tvshow">Discover TV show</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="airing_today">Airing Today</string>
+    <string name="popular">Popular</string>
+    <string name="title">Title</string>
+    <string name="voter">7.5/5</string>
+    <string name="rating">7.5</string>
+    <string name="genres">Genres</string>
+    <string name="title_overview">Overview</string>
+    <string name="detail_overview">Detail Overview</string>
+    <string name="reviewer">Reviewer</string>
+    <string name="language_settings">Change Language</string>
+
+    <string name="toastmsg">No Internet Connection</string>
+    <string name="toastFav">Successfully Added to Favorite Page</string>
+    <string name="toastFavFail">Not Successful</string>
+    <string name="toastDel">Successfully Deleted From Favorite Page</string>
+
+    <string name="setting">"Setting</string>
+    <string name="search">Search</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="search_tvshow">Search TV Show</string>
+    <string name="search_result">Search Result :</string>
+    <string name="movie_title_search">Movie Title Search</string>
+    <string name="tvshow_title_search">TV Show Title Search</string>
+    <string name="notification">Notification</string>
+    <string name="daily_reminder_title">Daily Reminder</string>
+    <string name="daily_reminder_desc">Reminder for return to app</string>
+    <string name="notification_setting_title">Notification Setting</string>
+    <string name="daily_message_reminder">Let\'s see what movies are popular today!</string>
+    <string name="empty_text">Empty Text</string>
+    <string name="About">"About"</string>
+
+    <string name="about1">Ricky Syah Nanda\n17.11.1007</string>
+    <string name="about2">Adnan Aziz Dhia Azzindani\n17.11.1016</string>
+    <string name="about3">Nia Hastari\n17.11.0994</string>
+    <string name="about4">Universitas AMIKOM Yogyakarta</string>
+</resources>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:background="@color/colorPrimary"
+    tools:context=".activity.AboutActivity">
+
+    <ImageView
+        android:id="@+id/imgRicky"
+        android:layout_width="105dp"
+        android:layout_height="105dp"
+        android:layout_marginTop="16dp"
+        android:contentDescription="@string/About"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/about1"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textColor="@color/colorWhite"
+        android:fontFamily="sans-serif-medium"/>
+
+    <ImageView
+        android:id="@+id/imgAdnan"
+        android:layout_width="105dp"
+        android:layout_height="105dp"
+        android:layout_marginTop="16dp"
+        android:contentDescription="@string/About"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/about2"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textColor="@color/colorWhite"
+        android:fontFamily="sans-serif-medium"/>
+
+    <ImageView
+        android:id="@+id/imgNia"
+        android:layout_width="105dp"
+        android:layout_height="105dp"
+        android:layout_marginTop="16dp"
+        android:contentDescription="@string/About"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/about3"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textColor="@color/colorWhite"
+        android:fontFamily="sans-serif-medium"/>
+
+    <TextView
+        android:id="@+id/amikom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/about4"
+        android:layout_marginTop="15dp"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="@color/colorWhite"
+        android:fontFamily="sans-serif-condensed-light"/>
+
+    <View
+        android:id="@+id/separator"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:background="@color/colorWhite"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/amikom"/>
+
+</LinearLayout>
