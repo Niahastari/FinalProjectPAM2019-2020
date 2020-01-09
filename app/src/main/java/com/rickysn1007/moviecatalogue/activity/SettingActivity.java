@@ -71,8 +71,10 @@ public class SettingActivity extends AppCompatActivity implements View.OnClickLi
                 edtDailyReminder.putBoolean(KEY_DAILY_REMINDER, false);
                 edtDailyReminder.commit();
                 dailyOff();
+                
             }
-        });
+        });   
+        
     }
 
     @Override
