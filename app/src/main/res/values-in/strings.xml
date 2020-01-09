@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="favorite">Kesukaan</string>
+    <string name="title_menu_movies">Film</string>
+    <string name="title_menu_tvshow">Acara TV</string>
+    <string name="title_fav_movies">Film Kesukaan Anda</string>
+    <string name="title_fav_tvshow">Acara TV Kesukaan Anda</string>
+    <string name="title_activity_movie_detail">Deskripsi Film</string>
+    <string name="title_activity_tvshow_detail">Deskripsi Acara TV</string>
+    <string name="splash_text">Film dan Acara TV</string>
+
+    <string name="image_poster">Gambar Poster</string>
+    <string name="backdrop_image">Gambar Latar Belakang</string>
+    <string name="title">Judul</string>
+    <string name="voter">7.5/5</string>
+    <string name="rating">7.5</string>
+    <string name="genres">Kategori</string>
+    <string name="title_overview">Ikhtisar</string>
+    <string name="detail_overview">Ikhtisar Detail</string>
+    <string name="reviewer">Ulasan</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="movie_discover">Film Terbaru</string>
+    <string name="tv_discover">Acara TV Terbaru</string>
+    <string name="discover_movie">Film Terbaru</string>
+    <string name="discover_tvshow">Acara TV Terbaru</string>
+    <string name="top_rated">Peringkat Teratas</string>
+    <string name="upcoming">Mendatang</string>
+    <string name="airing_today">Tayang Hari Ini</string>
+    <string name="popular">Populer</string>
+    <string name="language_settings">Ganti Bahasa</string>
+
+    <string name="toastmsg">Tidak Ada Koneksi Internet</string>
+    <string name="toastFav">Berhasil ditambahkan ke Halaman Kesukaan</string>
+    <string name="toastFavFail">Tidak berhasil</string>
+    <string name="toastDel">Berhasil dihapus dari Halaman Kesukaan</string>
+
+    <string name="setting">"Pengaturan</string>
+    <string name="search">Pencarian</string>
+    <string name="search_movie">Pencarian Film</string>
+    <string name="search_tvshow">Pencarian Acara TV</string>
+    <string name="search_result">Hasil Pencarian :</string>
+    <string name="movie_title_search">Pencarian Judul Film</string>
+    <string name="tvshow_title_search">Pencarian Judul Acara TV</string>
+    <string name="notification">Pemberitahuan</string>
+    <string name="daily_reminder_title">Pengingat Harian</string>
+    <string name="daily_reminder_desc">Pengingat kembali ke aplikasi</string>
+    <string name="notification_setting_title">Pengaturan Notifikasi</string>
+    <string name="daily_message_reminder">Cek film yang lagi trending hari ini!</string>
+    <string name="empty_text">Data Kosong</string>
+    <string name="About">"Tentang"</string>
+
+    <string name="about1">Ricky Syah Nanda\n17.11.1007</string>
+    <string name="about2">Adnan Aziz Dhia Azzindani\n17.11.1016</string>
+    <string name="about3">Nia Hastari\n17.11.0994</string>
+    <string name="about4">Universitas AMIKOM Yogyakarta</string>
+</resources>
