@@ -16,6 +16,9 @@ import java.util.ArrayList;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+
+
+
 public class FavAdapter extends RecyclerView.Adapter<FavAdapter.FavViewHolder> {
 
     private final ArrayList<Movies> movieList = new ArrayList<>();
@@ -64,3 +67,4 @@ public class FavAdapter extends RecyclerView.Adapter<FavAdapter.FavViewHolder> {
         }
     }
 }
+

@@ -50,6 +50,8 @@ public class DailyReceiver extends BroadcastReceiver {
                 .setAutoCancel(true)
                 .setSound(alarmSound);
 
+
+
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
 
             NotificationChannel channel = new NotificationChannel(CHANNEL_ID, CHANNEL_NAME, NotificationManager.IMPORTANCE_HIGH);
