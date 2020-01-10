@@ -11,7 +11,9 @@ import com.rickysn1007.moviecatalogue.R;
 import com.rickysn1007.moviecatalogue.model.TVshow;
 import com.squareup.picasso.Picasso;
 
+
 import java.util.ArrayList;
+
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
