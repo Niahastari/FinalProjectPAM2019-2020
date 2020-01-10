@@ -193,3 +193,6 @@ public class FavoriteFragment extends Fragment implements LoadMoviesCallback, Lo
         }
     }
 }
+
+
+
